@@ -1,0 +1,7 @@
+{
+  "projects": [
+    {name: "Horst", description: "A easy and open source programming language", url: "https://horstlang.org"},
+    {name: "LogoScript", description: "Makes NetLogo less hideous", url: "https://github.com/NinoDS/logoscript"},
+    {name: "Discord CLI", description: "An alternative Discord client with a command line interface", url: "https://github.com/iB1Jimbob/discord-cli"}
+  ]
+}
