@@ -1,6 +1,19 @@
-# Hi there 👋
-
-## Current projects:
-### - [Horst - the easy and open-source programming language](https://horstlang.org)
-### - [LogoScript - Makes NetLogo less hideous](https://github.com/NinoDS/logoscript)
-### - [Discord CLI - A Discord client using a command line interface](https://github.com/iB1Jimbob/discord-cli)
+```ts
+const me = {
+  name: "Jimi",
+  country: "Germany",
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "(S)CSS",
+    "Rust"
+  ],
+  occupation: "Student",
+  socials = {
+    github: "jimiherk",
+    twitter: "@derjimbob",
+    discord: "Jimi#1186"
+  }
+};
+```
